@@ -8,11 +8,11 @@ Relevant knowledge, skills, and technologies that I use:
 - Python, SQL, Bash, and JavaScript
 - Cloud computing with Google Cloud
 - SQL and NoSQL databases
-- Data warehousing with BigQuery
+- Data warehousing with BigQuery and basics of dbt
 - Data analysis and visualization
 - Data processing/transformation with Pandas, PySpark and Apache Beam
 - Data pipelines: EL, ETL, ELT
-- Orchestration with Airflow
-- Version control, IaC with Terraform, and containers
-- Fundamentals of data science + AI/ML 
-- Web development for data apps.
+- Orchestration with Airflow and Prefect
+- Version control, IaC with Terraform, containers, and basics of Kubernetes
+- Fundamentals of data science + AI/ML and basics of MLOps
+- Web development for data apps
